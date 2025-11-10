@@ -13,4 +13,4 @@ jobs:
     timeout-minutes: 20
     runs-on: ubuntu-latest
     steps:
-    - uses: sudo apt install ${{ matrix.dep }}
+    - run: sudo apt install ${{ matrix.dep }}
