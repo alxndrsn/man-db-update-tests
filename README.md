@@ -1,6 +1,10 @@
 Investigate slow man-db updates
 ===============================
 
+For tests run: https://github.com/alxndrsn/man-db-update-tests/actions
+
+# Background
+
 See:
 
 * https://bugs.launchpad.net/ubuntu/+source/man-db/+bug/2073797
